@@ -4,7 +4,7 @@ export function loadLists() {
       id: 1,
       title: "Ana",
       profissao: "Especialista Em Marketing Performance",
-      img: "https://cdn.pixabay.com/photo/2015/09/02/13/24/girl-919048_960_720.jpg",
+      img: "https://cdn.pixabay.com/photo/2017/02/16/12/18/business-woman-2071349_960_720.jpg",
       cores: ["#ffc0cb", "#fff", "#000"],
       side1: [
         {
