@@ -44,3 +44,5 @@ Nessa imagem eu pego os dados da function que eu exportei, eu faço um random de
  Aqui no compontente de lista eu, pego todo dado  e o index e faço uma separação, um container com imagem e outra separação, sendo as duas separações aside, e o header no meio como main, separação 1 é sobre profissão e separação 2 é sobre a pessoa
 ![image](https://user-images.githubusercontent.com/50595684/139960832-95585311-c206-4973-8b53-45ebe413b98e.png)
 
+
+Como próximos passos está em refazer o gerador de personas, deixando como escolha de idade e profissão ou caractéristicas do usuário 
