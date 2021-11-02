@@ -44,12 +44,12 @@ export function loadLists() {
       cores: ["#ffc0cb", "#fff", "#000"],
       side1: [
         {
-          about: "Salario:",
+          about: "Salário:",
           valor: "R$ 7.580",
         },
         {
           about: "Onde:",
-          valor: "pipefaio",
+          valor: "Pipefaio",
         },
         {
           about: "Características da profissão:",
@@ -111,9 +111,9 @@ export function loadLists() {
     {
       id: 4,
       title: "Rodrigo",
-      profissao: "Especialista Em Marketing Performance",
-      img: "https://cdn.pixabay.com/photo/2015/09/02/13/24/girl-919048_960_720.jpg",
-      cores: ["#ffc0cb", "#fff", "#000"],
+      profissao: "Diretor de Arte",
+      img: "https://cdn.pixabay.com/photo/2016/11/21/12/42/beard-1845166_960_720.jpg",
+      cores: ["#008", "#c60ef8", "#000"],
       side1: [
         {
           about: "Salario:",
@@ -131,12 +131,12 @@ export function loadLists() {
       side2: [
         {
           descricao: "Características:",
-          valor: "Olhar critico de análitico",
+          valor: "Olhar criativo e descontraido",
         },
         {
           descricao: "Descrição:",
           valor:
-            "Gosto de gatos, amo ler, gosto de chá e meu hobie é ver revista de modas",
+            "Gosto de Star Wars",
         },
         {
           descricao: "Qual livro e filme preferido sucessivamente?",

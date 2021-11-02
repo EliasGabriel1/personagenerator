@@ -24,7 +24,7 @@ export default function List({ data, index: listIndex }) {
       <header>
         <h2>{data.title}</h2>
         <h3>{data.profissao}</h3>
-        <img src={data.img} alt="perfil" />
+        <img src={data.img} alt="perfil" loading="lazy" />
         <Cores key={data.cores} data={data.cores} />
       </header>
       </Content2>
